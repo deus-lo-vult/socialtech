@@ -339,3 +339,39 @@ h3 {
     height: 368px;
     margin-top: 40px;
 }
+
+#company {
+    margin: 80px auto 80px auto;
+}
+
+#company-table {
+    width: 100%;
+}
+
+.tableheader {
+    text-align: left;
+    padding: 20px;
+    border-bottom-color: #2710d5;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    width: 100px;
+}
+
+.tableheader-first {
+    border-bottom-color: #2710d5;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+}
+
+.cell {
+    padding: 30px;
+    border-bottom-color: #ececec;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+}
+
+.cell-first {
+    border-bottom-color: #ececec;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+}
